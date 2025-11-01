@@ -23,9 +23,9 @@ O desenvolvimento deste projeto foi guiado e baseado integralmente no conteúdo 
 
 1.  Clone o repositório:
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO NO GITHUB]
+    git clone git@github.com:Joabson05/Portfolio.git
     ```
 2.  Abra o arquivo `index.html` no seu navegador.
 
 ---
-*Desenvolvido por: [Seu Nome Completo]*
+*Desenvolvido por: [Joabson Matos]*
