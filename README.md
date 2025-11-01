@@ -1,5 +1,9 @@
 # 💻 Portfólio Pessoal (Projeto de Estudo)
 
+
+https://github.com/user-attachments/assets/3b2a7b84-1df6-4092-9e25-3f1a038ad39c
+
+
 > Portfólio pessoal e profissional desenvolvido para fins de **aprendizado e prática** em desenvolvimento Front-End. O projeto demonstra a aplicação de JavaScript, HTML e CSS para criação de layouts responsivos.
 
 
